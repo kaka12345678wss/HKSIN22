@@ -33,3 +33,27 @@
 47.76.37.57:2086#Hong Kong
 203.9.150.104:443#Hong Kong
 45.124.54.242:443#Melbourne
+152.70.155.147:2086#Los Angeles
+152.70.155.147:443#Los Angeles
+91.149.239.238:443#Los Angeles
+38.49.59.43:443#Los Angeles
+152.70.155.147:8080#Los Angeles
+185.183.84.237:14395#Los Angeles
+89.213.182.210:38145#Los Angeles
+129.153.213.8:443#Los Angeles
+23.166.168.8:42126#Los Angeles
+118.194.229.51:11534#Los Angeles
+91.149.239.206:443#Los Angeles
+152.70.155.147:2087#Los Angeles
+154.201.90.98:24406#Los Angeles
+23.165.40.176:57321#Los Angeles
+23.165.40.119:443#Los Angeles
+23.169.184.179:53763#Los Angeles
+103.14.35.56:443#Los Angeles
+172.96.184.34:443#Los Angeles
+118.26.39.145:443#Los Angeles
+23.224.22.211:80#Los Angeles
+38.181.44.156:36687#Los Angeles
+23.166.168.67:13117#Los Angeles
+154.12.39.11:38668#Los Angeles
+63.237.48.111:443#Los Angeles
